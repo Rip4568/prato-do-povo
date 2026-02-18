@@ -9,8 +9,7 @@ export const Footer = () => {
             </h3>
             <p className="text-slate-600 dark:text-slate-400 max-w-sm">
               Garantindo segurança alimentar e dignidade para todos os cidadãos
-              do nosso estado. Uma iniciativa do Governo Estadual em parceria
-              com municípios.
+              da nossa cidade. Uma iniciativa da Prefeitura de Iguaí.
             </p>
           </div>
 
@@ -39,14 +38,14 @@ export const Footer = () => {
             <h4 className="font-bold mb-4">Contato</h4>
             <ul className="space-y-2 text-sm text-slate-600 dark:text-slate-400">
               <li>0800 123 4567</li>
-              <li>ouvidoria@estado.gov.br</li>
-              <li>Palácio do Governo, Centro</li>
+              <li>ouvidoria@iguai.ba.gov.br</li>
+              <li>Sede da Prefeitura, Centro</li>
             </ul>
           </div>
         </div>
 
         <div className="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800 text-center text-sm text-slate-500">
-          © 2026 Governo do Estado. Todos os direitos reservados.
+          © 2026 Prefeitura de Iguaí. Todos os direitos reservados.
         </div>
       </div>
     </footer>

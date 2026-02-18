@@ -166,7 +166,7 @@ export const Landing = () => {
                 icon: <Utensils className="w-12 h-12 text-white" />,
                 bg: "bg-orange-500",
                 title: "3. Refeição a R$ 1,00",
-                desc: "Pague apenas R$ 1,00 no balcão. O subsídio estadual cobre o restante automaticamente.",
+                desc: "Pague apenas R$ 1,00 no balcão. O subsídio municipal de Iguaí cobre o restante automaticamente.",
               },
             ].map((feature, idx) => (
               <motion.div
@@ -224,10 +224,10 @@ export const Landing = () => {
               da Mão
             </h2>
             <p className="text-lg text-slate-600 dark:text-slate-300 mb-8 leading-relaxed">
-              Para o cidadão, facilidade. Para o estado, transparência total.
-              Nosso sistema registra cada refeição em tempo real, evitando
-              fraudes e garantindo que o benefício chegue a quem realmente
-              precisa.
+              Para o cidadão, facilidade. Para a prefeitura, transparência
+              total. Nosso sistema registra cada refeição em tempo real,
+              evitando fraudes e garantindo que o benefício chegue a quem
+              realmente precisa.
             </p>
 
             <div className="space-y-4">
@@ -345,7 +345,7 @@ export const Landing = () => {
             <Heart size={40} />
           </div>
           <h2 className="text-4xl font-display font-bold mb-6 text-slate-900 dark:text-white">
-            Juntos por um Iguai Alimentado
+            Juntos por um Iguaí Alimentado
           </h2>
           <p className="text-xl text-slate-600 dark:text-slate-400 mb-10">
             Apoie esta iniciativa. Leve o programa Prato do Povo para o seu
