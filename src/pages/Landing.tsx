@@ -86,8 +86,8 @@ export const Landing = () => {
                 className="w-10 h-10 drop-shadow-lg brightness-110"
               />
             </span>
-            . Tecnologia e humanidade unidas para combater a fome em nosso
-            estado.
+            . Tecnologia e humanidade unidas para combater a fome em nossa
+            cidade.
           </motion.p>
 
           <motion.div
