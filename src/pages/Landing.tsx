@@ -76,7 +76,7 @@ export const Landing = () => {
             className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto mb-10 leading-relaxed drop-shadow-md font-medium"
           >
             Refeições nutritivas e balanceadas por apenas{" "}
-            <span className="inline-flex items-center gap-2 align-middle mx-1 bg-white/10 px-3 py-1 rounded-full backdrop-blur-md border border-white/20">
+            <span className="inline-flex items-center gap-2 align-middle mx-1 bg-white/20 px-3 py-1 rounded-full backdrop-blur-md border border-white/20">
               <strong className="text-green-300 text-3xl font-bold tracking-tight">
                 R$ 1,00
               </strong>
