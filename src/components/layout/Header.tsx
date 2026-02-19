@@ -31,9 +31,6 @@ export const Header = () => {
             <h1 className="font-display font-bold text-xl text-slate-900 dark:text-white">
               Prato do Povo
             </h1>
-            <p className="text-[10px] uppercase tracking-wider text-slate-500 font-bold">
-              Governo do Estado
-            </p>
           </div>
         </div>
 
